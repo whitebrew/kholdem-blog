@@ -42,6 +42,8 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-google-tag-manager
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 google:
   tag_manager:
