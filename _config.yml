@@ -41,6 +41,11 @@ minima:
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-google-tag-manager
+
+google:
+  tag_manager:
+    container_id: GTM-TS2SC6G9
 
 # {% gtm head %}
 # {% gtm body %}
