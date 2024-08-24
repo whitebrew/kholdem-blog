@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Introduction to the Seotda Game"
+title:  Introduction to the Seotda Game
+tagline: A Guide to Korea's Traditional Card Game
 date:   2024-08-16 19:53:52 +0900
 categories: seotda
 ---

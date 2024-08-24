@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  Solitaire – Play the Solo Card Game
+title:  Introduction to Solitaire
+tagline: Your Ultimate Guide to Mastering the Timeless Card Game
 date:   2024-08-19
 categories: solitaire
 ---
