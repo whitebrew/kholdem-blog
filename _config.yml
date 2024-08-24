@@ -33,9 +33,17 @@ url: "https://www.kholdem.io" # the base hostname & protocol for your site, e.g.
 # github_username: whitebrew
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
+minima:
+  skin: dark # or auto if you want it to switch with your system settings.
+
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+# {% gtm head %}
+# {% gtm body %}
 
 # Exclude from processing.
 # The following items will not be processed, by default.
