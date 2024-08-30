@@ -19,6 +19,7 @@ group :jekyll_plugins do
   gem "jekyll-remote-theme"
   gem "jekyll-redirect-from"
   gem "jekyll-seo-tag"
+  gem "jekyll-google-tag-manager"
   gem "jekyll-sitemap"
 end
 
